@@ -13,7 +13,7 @@ This project is an Android App for Weather.
 
 In this project I implemented different Android development techno like:
 
-.SQLite for local database
-.Retrofit
-.OkHttp for Ws
-.Picasso to Display img
+- SQLite for local database
+- Retrofit
+- OkHttp for Ws
+- Picasso to Display img
