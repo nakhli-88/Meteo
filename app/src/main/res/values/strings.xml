@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="create_hint">New york , London ...</string>
+    <string name="title_dialog_create">New city name</string>
+    <string name="title_dialog_delete">Delete city</string>
+    <string name="yes_create_city">create city</string>
+    <string name="cancel_create_city">Cancel</string>
+    <string name="create_city_option">create_city</string>
+    <string name="msg_toast_addcity">can\'t add city</string>
+    <string name="yes_delete_city">yes</string>
+
+    <!-- WeatherOld fragment -->
+    <string name="weather_temperature_label">Temperature:</string>
+    <string name="weather_humidity_label">Humidity:</string>
+    <string name="weather_pressure_label">Pressure:</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$s hPa</string>
+    <string name="weather_message_error_could_not_load_weather">Failed to load weather data</string>
+
+    <!-- WeatherOld menu -->
+    <string name="menu_refresh_weather">Refresh weather</string>
+</resources>
